@@ -5,5 +5,5 @@ Es una plataforma para jugar online y competir por la mayor cantidad de puntos d
 ## Commands
 
 ```bash
-npm run dev      # start dev server (port 3000)
+npm run dev      
 ```
